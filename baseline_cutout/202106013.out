@@ -1,0 +1,472 @@
+nohup: ignoring input
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+train_loss 1.7367061376571655 val_loss 1.5460807085037231 train_acc 39.3275 val_acc 39.27
+
+Epoch: 1
+Saving..
+
+Epoch: 2
+Saving..
+
+Epoch: 3
+
+Epoch: 4
+Saving..
+
+Epoch: 5
+Saving..
+
+Epoch: 6
+Saving..
+
+Epoch: 7
+Saving..
+
+Epoch: 8
+Saving..
+
+Epoch: 9
+
+Epoch: 10
+Saving..
+train_loss 0.7863399386405945 val_loss 0.42311859130859375 train_acc 82.9775 val_acc 80.22
+
+Epoch: 11
+Saving..
+
+Epoch: 12
+Saving..
+
+Epoch: 13
+Saving..
+
+Epoch: 14
+
+Epoch: 15
+Saving..
+
+Epoch: 16
+Saving..
+
+Epoch: 17
+Saving..
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+train_loss 0.17109650373458862 val_loss 0.6587371826171875 train_acc 90.945 val_acc 85.11
+
+Epoch: 21
+Saving..
+
+Epoch: 22
+
+Epoch: 23
+Saving..
+
+Epoch: 24
+Saving..
+
+Epoch: 25
+
+Epoch: 26
+Saving..
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+train_loss 0.11879529803991318 val_loss 0.5835118293762207 train_acc 96.575 val_acc 88.44
+
+Epoch: 31
+
+Epoch: 32
+
+Epoch: 33
+
+Epoch: 34
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+
+Epoch: 38
+Saving..
+
+Epoch: 39
+Saving..
+
+Epoch: 40
+train_loss 0.08708371967077255 val_loss 0.7775424718856812 train_acc 97.6775 val_acc 88.87
+
+Epoch: 41
+Saving..
+
+Epoch: 42
+
+Epoch: 43
+Saving..
+
+Epoch: 44
+
+Epoch: 45
+Saving..
+
+Epoch: 46
+
+Epoch: 47
+Saving..
+
+Epoch: 48
+
+Epoch: 49
+Saving..
+
+Epoch: 50
+train_loss 0.025763021782040596 val_loss 0.38318386673927307 train_acc 98.7475 val_acc 89.72
+
+Epoch: 51
+
+Epoch: 52
+Saving..
+
+Epoch: 53
+
+Epoch: 54
+Saving..
+
+Epoch: 55
+Saving..
+
+Epoch: 56
+
+Epoch: 57
+
+Epoch: 58
+Saving..
+
+Epoch: 59
+
+Epoch: 60
+Saving..
+train_loss 0.005410552024841309 val_loss 0.11798024922609329 train_acc 99.525 val_acc 90.32
+
+Epoch: 61
+
+Epoch: 62
+Saving..
+
+Epoch: 63
+
+Epoch: 64
+
+Epoch: 65
+Saving..
+
+Epoch: 66
+
+Epoch: 67
+
+Epoch: 68
+
+Epoch: 69
+
+Epoch: 70
+train_loss 0.013491127640008926 val_loss 0.5965151786804199 train_acc 99.755 val_acc 90.44
+
+Epoch: 71
+
+Epoch: 72
+
+Epoch: 73
+
+Epoch: 74
+
+Epoch: 75
+
+Epoch: 76
+
+Epoch: 77
+
+Epoch: 78
+
+Epoch: 79
+
+Epoch: 80
+train_loss 0.006439051125198603 val_loss 1.1189180612564087 train_acc 99.8725 val_acc 90.85
+
+Epoch: 81
+
+Epoch: 82
+
+Epoch: 83
+Saving..
+
+Epoch: 84
+
+Epoch: 85
+
+Epoch: 86
+
+Epoch: 87
+Saving..
+
+Epoch: 88
+
+Epoch: 89
+
+Epoch: 90
+train_loss 0.0007693897350691259 val_loss 0.007911879569292068 train_acc 99.89 val_acc 91.2
+
+Epoch: 91
+
+Epoch: 92
+
+Epoch: 93
+
+Epoch: 94
+Saving..
+
+Epoch: 95
+
+Epoch: 96
+
+Epoch: 97
+
+Epoch: 98
+
+Epoch: 99
+
+Epoch: 100
+train_loss 0.00024654617300257087 val_loss 0.04223744198679924 train_acc 99.9875 val_acc 91.14
+
+Epoch: 101
+
+Epoch: 102
+Saving..
+
+Epoch: 103
+Saving..
+
+Epoch: 104
+
+Epoch: 105
+
+Epoch: 106
+Saving..
+
+Epoch: 107
+
+Epoch: 108
+
+Epoch: 109
+Saving..
+
+Epoch: 110
+Saving..
+train_loss 8.256638466264121e-06 val_loss 0.20456668734550476 train_acc 99.99 val_acc 91.27
+
+Epoch: 111
+Saving..
+
+Epoch: 112
+
+Epoch: 113
+
+Epoch: 114
+
+Epoch: 115
+
+Epoch: 116
+
+Epoch: 117
+
+Epoch: 118
+
+Epoch: 119
+
+Epoch: 120
+train_loss 2.7285754185868427e-05 val_loss 0.0026908027939498425 train_acc 99.9925 val_acc 91.09
+
+Epoch: 121
+
+Epoch: 122
+
+Epoch: 123
+
+Epoch: 124
+
+Epoch: 125
+
+Epoch: 126
+
+Epoch: 127
+
+Epoch: 128
+
+Epoch: 129
+Saving..
+
+Epoch: 130
+train_loss 0.0007415448199026287 val_loss 0.30339494347572327 train_acc 100.0 val_acc 91.47
+
+Epoch: 131
+
+Epoch: 132
+
+Epoch: 133
+
+Epoch: 134
+
+Epoch: 135
+
+Epoch: 136
+
+Epoch: 137
+
+Epoch: 138
+
+Epoch: 139
+
+Epoch: 140
+train_loss 9.066266102308873e-06 val_loss 0.05509474128484726 train_acc 100.0 val_acc 91.52
+
+Epoch: 141
+Saving..
+
+Epoch: 142
+
+Epoch: 143
+
+Epoch: 144
+
+Epoch: 145
+
+Epoch: 146
+
+Epoch: 147
+
+Epoch: 148
+
+Epoch: 149
+
+Epoch: 150
+train_loss 2.3170673557615373e-06 val_loss 0.32420188188552856 train_acc 100.0 val_acc 91.67
+
+Epoch: 151
+Saving..
+
+Epoch: 152
+
+Epoch: 153
+
+Epoch: 154
+
+Epoch: 155
+Saving..
+
+Epoch: 156
+
+Epoch: 157
+
+Epoch: 158
+
+Epoch: 159
+
+Epoch: 160
+train_loss 1.8588984858070035e-06 val_loss 1.3051656484603882 train_acc 99.9975 val_acc 91.77
+
+Epoch: 161
+
+Epoch: 162
+
+Epoch: 163
+
+Epoch: 164
+
+Epoch: 165
+
+Epoch: 166
+
+Epoch: 167
+Saving..
+
+Epoch: 168
+
+Epoch: 169
+
+Epoch: 170
+train_loss 6.019685770297656e-06 val_loss 0.02383127622306347 train_acc 100.0 val_acc 91.71
+
+Epoch: 171
+
+Epoch: 172
+
+Epoch: 173
+
+Epoch: 174
+
+Epoch: 175
+
+Epoch: 176
+
+Epoch: 177
+
+Epoch: 178
+
+Epoch: 179
+
+Epoch: 180
+train_loss 1.8905629985965788e-06 val_loss 0.6078627109527588 train_acc 100.0 val_acc 91.57
+
+Epoch: 181
+
+Epoch: 182
+
+Epoch: 183
+
+Epoch: 184
+
+Epoch: 185
+
+Epoch: 186
+
+Epoch: 187
+
+Epoch: 188
+
+Epoch: 189
+
+Epoch: 190
+train_loss 2.9439512218232267e-05 val_loss 1.0573116540908813 train_acc 100.0 val_acc 91.66
+
+Epoch: 191
+
+Epoch: 192
+
+Epoch: 193
+
+Epoch: 194
+
+Epoch: 195
+
+Epoch: 196
+
+Epoch: 197
+
+Epoch: 198
+
+Epoch: 199
